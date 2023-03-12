@@ -1,9 +1,6 @@
 # Automatische-Segmentierung-des-Rechten-Ventrikels-auf-Kardio-MRT--Daten
 
 
-Automatische Segmentierung des Rechten Ventrikels auf Kardio-MRT-
-Daten
-Kursbewertung erfolgt über diese Semesterbegleitende Aufgabe
 Daten:
 Die Daten stammen aus der MICCAI Challenge 2017:
 • Website: https://www.creatis.insa-lyon.fr/Challenge/acdc/index.html
